@@ -2,6 +2,8 @@
 
 This project is created using mainly `JavaScript` with its Linters also.
 Rock-Paper-Scissors is a Game requiring 2 or more people where `Rock` beats `Scissors`; `Scissors` beats `Paper` and `Paper` beats `Rock`.
+Its can only be play in the `console` now.
+
 
 ## Built With
 
@@ -26,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Click here](https://yussamoney.github.io/Project-Rock-Paper-Scissors.git)
+[Click here](https://yussamoney.github.io/Project-Rock-Paper-Scissors)
 
 ### Prerequisites
 
