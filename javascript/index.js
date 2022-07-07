@@ -89,7 +89,7 @@ function game() {
     return ('');
 }
 
-// console.log(game());
+console.log(game());
 
 const myParagraph = document.getElementById('p1');
 setTimeout(() => {
