@@ -14,6 +14,8 @@ scissors.className = 'text-danger';
 // Assigned Value to each Score Variable
 let playerScore = 0;
 let computerScore = 0;
+let tieScore = 0;
+
 
 // Assigned Value to Win, Lose & Tie Variable
 const win = 'You Win this game!';
